@@ -6,7 +6,7 @@
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
-        <extension point="xbmc.addon.repository" name="{name}">
+        <extension point="xbmc.addon.repository" name="repository.abaphacker.gotham">
             <info compressed="false">https://raw.githubusercontent.com/abaphacker/kodiAddons/master/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/abaphacker/kodiAddons/master/addons.xml.md5</checksum>
             <datadir zip="true">https://raw.githubusercontent.com/abaphacker/kodiAddons/master/</datadir>
