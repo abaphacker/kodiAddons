@@ -8,9 +8,9 @@
   </requires>
 	<extension point="xbmc.addon.repository"
 		name="abaphacker Add-ons (Gotham)">
-			<info compressed="true">https://raw.githubusercontent.com/abaphacker/kodiAddons/master/addons.xml</info>
+			<info compressed="false">https://raw.githubusercontent.com/abaphacker/kodiAddons/master/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/abaphacker/kodiAddons/master/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/abaphacker/kodiAddons/master/</datadir>
+			<datadir zip="false">https://raw.githubusercontent.com/abaphacker/kodiAddons/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install add-ons from abaphacker</summary>
