@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="30011">User</string>
+    <string id="30012">Password</string>
+    <string id="30001">Logon</string>
+	<string id="30002">Favorites</string>
+	<string id="30003">Search</string>
+	
+</strings>
